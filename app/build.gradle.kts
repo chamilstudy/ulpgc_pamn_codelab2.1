@@ -79,4 +79,7 @@ dependencies {
 
     debugImplementation("androidx.compose.ui:ui-test-manifest")
     debugImplementation("androidx.compose.ui:ui-tooling")
+
+    // codelab
+    implementation("androidx.datastore:datastore-preferences:1.0.0")
 }
